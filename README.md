@@ -31,4 +31,4 @@ Great for students and beginners to understand sensors, analog input, and LCD in
 Weather Stations:
 Can be integrated into simple weather station setups to measure and display local temperature conditions.
 
-#output
+#output<img width="622" height="292" alt="Image" src="https://github.com/user-attachments/assets/afc34b63-f9c5-4629-b64c-7e975ab04fe1" />
